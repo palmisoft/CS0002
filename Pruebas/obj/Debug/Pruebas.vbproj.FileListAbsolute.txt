@@ -1,0 +1,9 @@
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\obj\Debug\Pruebas.Resources.resources
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\obj\Debug\Pruebas.vbproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\bin\Debug\Pruebas.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\obj\Debug\Pruebas.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Pruebas\obj\Debug\Pruebas.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\bin\Debug\Lab6 complete.exe.config
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\obj\Debug\Lab6_complete.Resources.resources
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\obj\Debug\Lab6 complete.vbproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\bin\Debug\Lab6 complete.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\bin\Debug\Lab6 complete.pdb
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\bin\Debug\Lab6 complete.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\obj\Debug\Lab6 complete.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\obj\Debug\Lab6 complete.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab6 complete\obj\Debug\Lab6 complete.pdb

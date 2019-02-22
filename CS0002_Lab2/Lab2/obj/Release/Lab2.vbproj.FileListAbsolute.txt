@@ -1,0 +1,11 @@
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab2\Lab2\bin\Release\Lab2.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab2\Lab2\bin\Release\Lab2.pdb
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab2\Lab2\bin\Release\Lab2.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab2\Lab2\obj\Release\ConsoleApplication1.Resources.resources
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab2\Lab2\obj\Release\Lab2.vbproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab2\Lab2\obj\Release\Lab2.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab2\Lab2\obj\Release\Lab2.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab2\Lab2\obj\Release\Lab2.pdb
+C:\Users\Mario\OneDrive\Documents\YEAR 0\CS0002 Programming\Projects\Lab2 Complete\Lab2\obj\Release\Lab2.exe
+C:\Users\Mario\OneDrive\Documents\YEAR 0\CS0002 Programming\Projects\Lab2 Complete\Lab2\obj\Release\Lab2.xml
+C:\Users\Mario\OneDrive\Documents\YEAR 0\CS0002 Programming\Projects\Lab2 Complete\Lab2\obj\Release\Lab2.pdb

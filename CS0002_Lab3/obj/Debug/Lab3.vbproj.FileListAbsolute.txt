@@ -1,0 +1,13 @@
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\bin\Debug\Lab3.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\bin\Debug\Lab3.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\obj\Debug\Lab3.Resources.resources
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\obj\Debug\Lab3.vbproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\obj\Debug\Lab3.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\obj\Debug\Lab3.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Mario\OneDrive\Documents\YEAR 0\CS0002 Programming\Projects\Lab3 Complete\bin\Debug\Lab3.exe.config
+C:\Users\Mario\OneDrive\Documents\YEAR 0\CS0002 Programming\Projects\Lab3 Complete\obj\Debug\Lab3.exe
+C:\Users\Mario\OneDrive\Documents\YEAR 0\CS0002 Programming\Projects\Lab3 Complete\obj\Debug\Lab3.xml
+C:\Users\Mario\OneDrive\Documents\YEAR 0\CS0002 Programming\Projects\Lab3 Complete\obj\Debug\Lab3.pdb

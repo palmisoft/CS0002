@@ -1,0 +1,9 @@
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\bin\Debug\Factorial Function.exe.config
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\bin\Debug\Factorial Function.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\bin\Debug\Factorial Function.pdb
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\bin\Debug\Factorial Function.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\obj\Debug\Factorial_Function.Resources.resources
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\obj\Debug\Factorial Function.vbproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\obj\Debug\Factorial Function.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\obj\Debug\Factorial Function.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Factorial Function\obj\Debug\Factorial Function.pdb

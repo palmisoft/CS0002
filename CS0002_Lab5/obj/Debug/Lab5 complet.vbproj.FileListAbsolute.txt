@@ -1,0 +1,9 @@
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\bin\Debug\Lab5 complet.exe.config
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\bin\Debug\Lab5 complet.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\bin\Debug\Lab5 complet.pdb
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\bin\Debug\Lab5 complet.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\obj\Debug\Lab5_complet.Resources.resources
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\obj\Debug\Lab5 complet.vbproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\obj\Debug\Lab5 complet.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\obj\Debug\Lab5 complet.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Lab5 complet\obj\Debug\Lab5 complet.pdb

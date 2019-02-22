@@ -1,0 +1,9 @@
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\bin\Debug\ConsoleApplication1.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\bin\Debug\ConsoleApplication1.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\obj\Debug\CourseworkMPS.vbproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\obj\Debug\ConsoleApplication1.exe
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\obj\Debug\ConsoleApplication1.xml
+C:\Users\Mario\OneDrive\Documents\CS0002 Programming\Projects\Course Work\obj\Debug\ConsoleApplication1.pdb
